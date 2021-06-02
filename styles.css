@@ -1,9 +1,13 @@
-
+html{
+  background: linear-gradient(to top, #b13e6e,transparent);
+}
 body {
   font-family: "Spartan", sans-serif;
   font-size: 15px;
-  background: linear-gradient(to top, #b13e6e,transparent);
+  background: transparent;
+  
 }
+
 
 .upperSubPart-1 {
   display: inline-block;
